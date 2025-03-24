@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Generative AI**
 
-- 💬 Ask me about **ML, DL**
+- 💬 Ask me about **Manual Testing, Automated Testing, ML, DL**
 
 - 📫 How to reach me **foysal.cse.cpp@gmail.com**
 
