@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Md. Foysal Ahmed</h1>
-<h3 align="center">A passionate ML, DL, Computer Vision learner.</h3>
+<h3 align="center">A passionate Software Quality Assurance (SQA) Engineer, ML, DL, Computer Vision learner.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m-foysalahmed" alt="m-foysalahmed" /></a> </p>
 
